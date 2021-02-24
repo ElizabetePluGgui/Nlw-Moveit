@@ -5,3 +5,5 @@
 <img alt="NLW-4" src="nlw-4.png">
 </p>
 yarn create react-app moveit --template=typescript
+
+yarn create next-app moveit-next
