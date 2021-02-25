@@ -9,7 +9,10 @@ export function Profile() {
       />
       <div>
         <strong>Elizabete de Sousa Fabri</strong>
-        <p>Level 1</p>
+        <p>
+          <img src="icons/level.svg" alt="Level" />
+          Level 1
+        </p>
       </div>
     </div>
   );
