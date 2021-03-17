@@ -11,7 +11,10 @@
 
 # production
 /build
-
+git rm --cached -r .
+git add .
+git commit -m "Clear"
+git push -u origin master
 # misc
 .DS_Store
 *.pem
